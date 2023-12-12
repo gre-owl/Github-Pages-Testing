@@ -9,6 +9,10 @@ function App() {
         <p>
           Test Github Pages to a local repository
         </p>
+
+        <p>
+          HELLO
+        </p>
         <a
           className="App-link"
           href="https://reactjs.org"
